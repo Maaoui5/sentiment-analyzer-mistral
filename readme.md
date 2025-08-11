@@ -13,5 +13,5 @@ of text.
 
 ## Clone the repository
 ```bash
-git clone https://github.com/<your-username>/sentiment-analyzer-mistral.git
+git clone https://github.com/Maaoui5/sentiment-analyzer-mistral.git
 cd sentiment-analyzer-mistral
